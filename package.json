@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/Bantolin09/comp3104/issues"
   },
-  "homepage": "https://github.com/Bantolin09/comp3104#readme", 
+  "homepage": "https://Bantolin09.github.com/comp3104", 
     "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
